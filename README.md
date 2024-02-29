@@ -6,5 +6,6 @@ github lesson here
 
 other info in demo_repo 2
 
-### sub sub topic
- jeffmaine
+### Local development
+ 1. open index.html in your browser
+ 
